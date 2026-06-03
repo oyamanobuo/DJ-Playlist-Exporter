@@ -155,12 +155,12 @@ iTunesライブラリ内のローカル楽曲
 
 ## 作者
 
-Oyama　Nobuo
+Oyama Nobuo
 
 ---
 
 ## ライセンス
 
-Copyright © Oyama　Nobuo
+Copyright © Oyama Nobuo
 
 All Rights Reserved.
