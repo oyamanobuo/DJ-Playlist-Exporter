@@ -1,4 +1,4 @@
-# DJ Playlist Exporter
+# USBプレイリスト屋さん太郎
 
 iTunesプレイリストをUSB用フォルダへ簡単に書き出せるMac向けツールです。
 
